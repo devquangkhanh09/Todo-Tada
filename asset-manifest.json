@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-Tada/static/css/main.7f65e29b.css",
+    "main.js": "/Todo-Tada/static/js/main.31a0a2fe.js",
+    "index.html": "/Todo-Tada/index.html",
+    "main.7f65e29b.css.map": "/Todo-Tada/static/css/main.7f65e29b.css.map",
+    "main.31a0a2fe.js.map": "/Todo-Tada/static/js/main.31a0a2fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f65e29b.css",
+    "static/js/main.31a0a2fe.js"
+  ]
+}
